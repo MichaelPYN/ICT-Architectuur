@@ -9,5 +9,5 @@
 * El Jattari Azdine
 * Hens Laurens
 * Vertessen Arne
-* Chob Jaem
+* Chobsuk Jakkapong
 * Pynenborg Michael
